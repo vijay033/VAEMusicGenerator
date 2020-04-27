@@ -4,3 +4,6 @@
 # Process
 #### Spectrogram -> npy conversion -> loading in custom data generator as image
 #### Predict -> spectrogram -> reconstruct music
+# Inspirations
+#### https://timsainburg.com/python-mel-compression-inversion.html
+#### https://github.com/davidADSP/GDL_code
